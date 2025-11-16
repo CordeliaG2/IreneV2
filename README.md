@@ -1,10 +1,10 @@
 🌼 Para Irene — Animación de Flores y Noche Estrellada
-
 Este proyecto es una página web creada como un detalle visual y animado, que muestra un campo de flores animadas bajo un cielo nocturno con estrellas fugaces.
 Incluye un mensaje especial dedicado “Para Irene”, acompañado de efectos visuales realizados únicamente con HTML y CSS.
 
-🌙 Descripción del Proyecto
+El codigo original es de Sandreke, todos los creditos son suyos
 
+🌙 Descripción del Proyecto
 La página despliega:
 
 Un cielo nocturno con gradientes y texturas.
@@ -21,8 +21,8 @@ Animaciones avanzadas con transform, rotate, scale, blur, radial-gradient, linea
 
 Todo está diseñado para crear un ambiente cálido, suave, visualmente atractivo y con un toque emocional.
 
-🛠️ Tecnologías utilizadas
 
+🛠️ Tecnologías utilizadas
 HTML5
 
 CSS3 (con uso extenso de):
@@ -41,8 +41,8 @@ Posicionamiento absoluto y relativo
 
 No se utiliza JavaScript ni librerías externas.
 
-📂 Estructura del código
 
+📂 Estructura del código
 El archivo contiene tanto el HTML como los estilos CSS internos.
 
 Las tres secciones principales del diseño son:
@@ -69,12 +69,12 @@ Dentro de la sección de flores, se organizan diversos elementos:
 
 .flower__grass → Hierba animada
 
-🚀 Cómo ejecutar el proyecto
 
+🚀 Cómo ejecutar el proyecto
 Descarga o copia el archivo HTML completo.
 
 Guárdalo con el nombre que desees, por ejemplo:
-flores_para_irene.html
+"flores_para_irene.html"
 
 Ábrelo en cualquier navegador moderno:
 
@@ -88,8 +88,8 @@ Safari
 
 No requiere instalación adicional ni servidor.
 
-🎨 Personalización
 
+🎨 Personalización
 Puedes modificar fácilmente:
 
 El mensaje especial en el elemento:
@@ -108,8 +108,8 @@ La escala del conjunto de flores cambiando:
 
 transform: scale(0.7);
 
-❤️ Propósito
 
+❤️ Propósito
 Este proyecto fue creado como un gesto personal y significativo:
 
 Un detalle programado para una persona especial, con dedicación y cariño.
@@ -117,5 +117,4 @@ Un detalle programado para una persona especial, con dedicación y cariño.
 Si deseas regalarlo, personalizarlo o expandirlo, la estructura está diseñada para ser clara y flexible.
 
 📄 Licencia
-
 Este proyecto puede considerarse de uso personal, pero puedes reutilizar el código libremente si lo deseas. No se incluyen dependencias con licencia.
